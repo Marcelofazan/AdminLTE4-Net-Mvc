@@ -1,4 +1,3 @@
-
 ## 🌍 AdminLTE4-Net-Mvc-MySQL
 
 Exemplo de utilização do AdminLTE com com criação de Renderizar o Layout em MVC com banco de dados MySQL.
@@ -28,8 +27,6 @@ adminlte
 ```
 
 #### O que você vai encontrar neste projeto
-
-
 | Tecnologia | Descrição |
 |-----------|-----------|
 | **AdminLTE** | Template de painel administrativo (Dashboard) de código aberto construído com o framework Bootstrap. |
@@ -46,3 +43,6 @@ server=127.0.0.1;userid=root;password=SUASENHA;database=SEUBANCO;persistsecurity
 ```
 
 O script para criação da tabela do exemplo encontra-se na pasta **Database**.
+
+#### Aqui está uma demonstração do Projeto
+<img width="1360" height="612" alt="AdminLTE4-Net-Mvc5" src="https://github.com/user-attachments/assets/38abc628-4791-49a3-b91a-20acee7a07ec" />
