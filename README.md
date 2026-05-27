@@ -1,5 +1,5 @@
 ## 🌍 Net-Mvc-AdminLTE4 
-Exemplo de criação de  Renderizar do AdminLTE4 com Layout em NET MVC com banco de dados MySQL.
+Exemplo de criação de  Renderizar do AdminLTE4 com Layout em NET MVC Razor com banco de dados MySQL.
 
 #### O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
